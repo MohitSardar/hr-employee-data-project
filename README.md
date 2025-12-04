@@ -21,7 +21,25 @@ This project demonstrates practical skills in:
 - Pivot Tables  
 - Pivot Charts  
 - Dashboard Design  
-- KPI Visualization  
+- KPI Visualization
+
+
+## 📊 Dashboard Preview
+
+![Dashboard Overview](ScreenShot/Head%20Count%20by%20Department.png)
+
+---
+
+## 🔥 Attrition Analysis
+
+![Attrition Analysis](ScreenShot/Attrition%20Count.png)
+
+---
+
+## 📈 Salary & Headcount Analysis
+
+![Salary and Headcount Charts](ScreenShot/Average%20Monthly%20Income%20by%20Department.png)
+
 
 ---
 
